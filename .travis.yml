@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main() {
+    printf("cai ji!\n");
+    return 0;
+}
