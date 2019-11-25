@@ -1,5 +1,3 @@
-#include <stdio.h>
-int main() {
-    printf("cai ji!\n");
-    return 0;
-}
+language: c
+script: 
+  - gcc test.c -o test
