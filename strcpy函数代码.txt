@@ -6,3 +6,4 @@ char *strcpy(char *strDest,const char *strSrc)
   return address;
 }
 
+//远程修改
