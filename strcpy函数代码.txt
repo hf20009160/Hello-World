@@ -5,3 +5,4 @@ char *strcpy(char *strDest,const char *strSrc)
     NULL;
   return address;
 }
+caijiyuancheng
