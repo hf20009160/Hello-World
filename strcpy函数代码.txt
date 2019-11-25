@@ -5,3 +5,5 @@ char *strcpy(char *strDest,const char *strSrc)
     NULL;
   return address;
 }
+
+本地修改
